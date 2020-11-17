@@ -1,6 +1,6 @@
 # How to use Docker as a Development Environment (with Python and Flask)
 
-Link to video: https://youtu.be/FVeaf21o6GY
+Link to video: https://youtu.be/Y-a6MXpnW4U
 
 ## Command use in video
 
